@@ -6,6 +6,6 @@
 	padding:5px;
 }
 
-.title {
-	text-align:center;
+.centre {
+	align-items:center; 
 }
